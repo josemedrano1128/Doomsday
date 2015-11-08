@@ -1,0 +1,22 @@
+Pin Assignments
+
+2- Laser Pointers (and LED)
+3- Left Motor (Y)
+4- Fire LED (Turns on momentarily when rubber band is fired)
+5- Right Motor (Y)
+6- Base Motor (X)
+7- Fire Button (should read 1 when trigger button is pressed)
+8- Laser Button (should read 1 when top button is pressed)
+9- Fire Motor (swings forward when fire button is pressed)
+10- PIR sensor
+11- Ping Sensor
+12- PIR Status LED (blinks while PIR is setting up)
+13- SIPO Shift Register Clock 
+
+A0- X input
+A1- Y input
+A2- wheel input
+A3- Mode input (values coming soon)
+
+A4- (configure as output) SIPO Shift Register Data
+
